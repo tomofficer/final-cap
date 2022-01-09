@@ -36,5 +36,3 @@ function Dashboard({ date }) {
 }
 
 export default Dashboard;
-
-//work on user story 1 first
