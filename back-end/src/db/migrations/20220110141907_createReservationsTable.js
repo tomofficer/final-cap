@@ -17,3 +17,4 @@ exports.down = function (knex) {
 };
 
 //need to troubleshoot migrations and rollbacks
+//need to troubleshoot seeding database
